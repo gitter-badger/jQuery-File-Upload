@@ -1,5 +1,7 @@
 # jQuery File Upload Plugin
 
+[![Join the chat at https://gitter.im/zamoldar/jQuery-File-Upload](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/zamoldar/jQuery-File-Upload?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 ## Demo
 [Demo File Upload](http://blueimp.github.com/jQuery-File-Upload/)
 
